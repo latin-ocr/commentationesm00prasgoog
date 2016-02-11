@@ -1,0 +1,44 @@
+5⁴²3
+δας·
+P R Ο Β L E MA.
+
+, De serie arithmetica ordinis 9²³, qualem exhibet P 5.· 5k praeter termi-
+num primum datus est terminus (k†i)‘⁰⁵, (2k†1)‘'¹⁸, (3k†1)‘¹¹⁸ .(pk‘†1)²¹¹⁵,
+quaeritur integrae restitutiO, interiectis quidem (iz-1) terminis iuter bi·
+
+nos quosque terminos datorum
+
+SOLVTIO.
+
+Problematis solutio generalis valoribus ipss quos primi differentssgum
+termini ΔΡ; ΔΗ, ΔΜ, 0. ,Δ3ς A23A13secundum§. 6. habent, affer·
+
+tur, ex illis enim aequat-ionibus quantitatum κς τ; τ; . .·,’γ β’, α, va·
+iores erui pulsant, iisque repertiS, expedita adest ιΡΓ us seriei P restitutiO,
+quum primus eius terminus sit e numero datorum. Sed quoniam, fi ad
+ipsam interpolationem seu restitutionem seriei cuiusdam redeat tandem
+-loebor, nullius sunt utilitatis formulae generalioreS, speravimus illis relictis
+non ingratum fore lectoribus quarundam seriei-um ordinis certi restitutio·
+nem tabula parata adiuvare, quae §. sequenti exhibetur.
+
+5. 8.
+PnonLEMA‘rls §.7.'1²n0'1’051'‘r1 vsvs IN INTERPOLANDIS
+
+SERIEBVS ARITHMETICIS ORDINVM SEPTIMO
+INFERIORVM -OSTENDITVR.
+
+Interpolantur· fere arithmeticae series, quae ordinem sextum non
+transcendunt, quia cum ordine seriei interpolandae interpolationis ipfius
+augetur labor, et posterioi'es differentiae, si iquae adsunt, fine incommodo
+plerumque negligi possunt. Substitimus igitur in ipsis seriebus ordinis sexti
+et tabulam, cuius ope in serie arithmetica ordinis septimo inferioris inter
+binos quosque terminos tenmini numero k- ι =1, 2, 3, 4, 5, 6, facilius
+interiici poffint, computavimus, ne in qualibet interpolatione iidem calculi
+denuo {int repetendi. Tabula ipsa accommodata est seriei Ρ §0 5. exhibitae et
+aequationibus §. 6. omiffis quidem differentiis, quae sextas insequuntur.
+Termini scilicet primi differentiarum ι ¹¹², 2³u ¹,'3‘ ¹¹¹¹, 4““,“ 5 ¹¹¹¹ ,6 “,““ {ignis
+Δ“-, N, Δ3, Δ4, Δ5, N, eorumque valeres sequentibus exprimuntur aequa·
+tionibus·
+
+pro
+
